@@ -1,6 +1,6 @@
 #include "stm32g474xx.h"
 
-
+//This code blink the Led once it is powered.
 
 void GPIO_config(void){
 
